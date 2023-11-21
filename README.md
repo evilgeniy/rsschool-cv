@@ -1,1 +1,1 @@
-https://evilgeniy.github.io/rsschool-cv
+https://evilgeniy.github.io/rsschool-cv/index.html
